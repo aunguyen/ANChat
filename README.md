@@ -14,3 +14,8 @@ This Chat app has these features:
 NOTE: 
 - Please do a "pod install" before you can run project
 - I'm using free firebase account so there might be some slow and limit experiences.
+- There are some missing features and it's not complet yet.
+
+THANKS FOR SPENDING YOUR TIME.
+
+AU NGUYEN.
