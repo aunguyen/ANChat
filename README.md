@@ -11,7 +11,6 @@ This Chat app has these features:
 - Overall smooth scrolling experience
 - Support Offline send ( work best with text message, video and image not support offline display yet)
 
-
 NOTE: 
 - Please do a "pod install" before you can run project
 - I'm using free firebase account so there might be some slow and limit experiences.
