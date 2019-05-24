@@ -1,0 +1,6 @@
+framework module Pods_ANDemoChat {
+  umbrella header "Pods-ANDemoChat-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,38 @@
+//TITLE
+"lk_Error" = "Error";
+"lk_Warning" = "Warning";
+"lk_Success" = "Success";
+
+//TITLE BUTTON
+"lk_OK" = "OK";
+"lk_Submit" = "Submit";
+"lk_Send" = "Send";
+
+//MESSAGE
+"lk_No_Internet" = "No Internet Connection";
+"lk_Unkonw_error" = "Unknow error";
+"lk_invalid_email_address" = "Invalid email address";
+"lk_empty_response" = "Empty Response";
+
+//LOGIN
+"lk_login_account" = "Log In Account";
+"lk_login" = "Log in";
+"lk_logout" = "Log out";
+"lk_signup" = "Sign Up";
+"lk_create_account" = "Create account";
+"lk_forgot_password" = "Forgot password?";
+"lk_already_have_an_account" = "Already have an account? Log in";
+"lk_do_not_have_an_account" = "Do not have an account? Create account";
+
+//CREATE ACCOUNT
+"lk_user_name" = "First Name";
+"lk_email" = "Email";
+"lk_paswword" = "Password";
+
+"lk_please_enter_user_name" = "Please enter user name";
+"lk_please_enter_your_email" = "Please enter your email";
+"lk_please_enter_your_password" = "Please enter your password";
+"lk_Sigup_Success" = "Sign Up successfully";
+"lk_Invalid_User" = "Invalid User";
+"lk_Login_Error" = "Login Error";
+"lk_Create_User_Error" = "Create User Error";
