@@ -1,7 +1,6 @@
 # ANChat
 Chat app with firebase
 
-This is my demo for LittleLives technical test
 This Chat app has these features:
 - Register / Login
 - Can contain attachments (Photo, video)
