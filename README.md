@@ -1,7 +1,6 @@
 # ANChat
 Chat app with firebase
 
-This is my demo for LittleLives technical test
 This Chat app has these features:
 - Register / Login
 - Can contain attachments (Photo, video)
@@ -12,7 +11,8 @@ This Chat app has these features:
 - Support Offline send ( work best with text message, video and image not support offline display yet)
 
 NOTE: 
-- Please do a "pod install" before you can run project
+- You can register your own account for testing
+- Please do a "pod install" if build fail
 - I'm using free firebase account so there might be some slow and limit experiences.
 - There are some missing features and it's not complet yet.
 
